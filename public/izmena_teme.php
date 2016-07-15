@@ -3,7 +3,7 @@
 <?php require_once("../includes/funkcije.php") ?>
 <?php require_once("../includes/proveravrednosti_funkcije.php") ?>
 <?php potvrda_logovanja(); ?>
-
+<?php //comment ?>
 <?php  prikaz_naslova(); ?>
 <?php
 	if(!$trenutni_naslov_teme) {
