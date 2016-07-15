@@ -1,0 +1,5 @@
+Promenjeni su fajlovi:
+
+includes/funkcije.php
+public/alat-generisipasswordhash.php
+public/login.php
